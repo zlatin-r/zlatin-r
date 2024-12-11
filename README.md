@@ -5,5 +5,14 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatin-r&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlatin-r&theme=dark" alt="GitHub Streak" />
 </div>
+
+### 😊 Feeling comfortable with:
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
