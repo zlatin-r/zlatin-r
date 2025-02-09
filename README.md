@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatin-r&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 
-### 😊 Feeling comfortable with:
+### 😊 Technologies that i'm familiar with:
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -16,3 +16,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" heigth="40"/>&nbsp;
