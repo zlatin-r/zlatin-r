@@ -9,7 +9,6 @@
 
 ### 😊 Technologies that i'm familiar with:
 
-<div style="background-color: white">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
@@ -18,15 +17,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" heigth="40"/>&nbsp;
-</div>
-
-<img src="https://img.shields.io/badge/style=for-the-logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange" />
-<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue" />
-<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=red" />
-
-
