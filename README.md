@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!;Welcome+to+my+GitHub+Profile!;Happy+Coding!+💻)
+<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ### I'm Zlatin! 👋
 
 🌱 I'm on an exciting journey in the world of programming at SoftUni in Bulgaria. Coming from a background in Bulgaria, I've delved deeply into a variety of courses that have built a strong foundation in coding and problem-solving. So far, I’ve successfully completed courses in Programming Basics with Python, Programming Fundamentals, Python Advanced, Python OOP, and even explored the powerful Django ORM, PostgreSQL databases, and the essential HTML & CSS for front-end development.
