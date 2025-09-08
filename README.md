@@ -2,7 +2,7 @@
 
 ### I'm Zlatin! 👋
 
-🌱 I'm on an exciting journey in the world of programming at SoftUni in Bulgaria. Coming from a background in Bulgaria, I've delved deeply into a variety of courses that have built a strong foundation in coding and problem-solving. So far, I’ve successfully completed courses in Programming Basics with Python, Programming Fundamentals, Python Advanced, Python OOP, and even explored the powerful Django ORM, PostgreSQL databases, and the essential HTML & CSS for front-end development.
+🌱 Aspiring software developer trained at SoftUni Bulgaria, skilled in Python, Django, JavaScript, HTML/CSS, and PostgreSQL. Passionate about solving problems, writing clean code, and building a strong foundation in full-stack development and DevOps practices. Always learning and ready to grow as a developer.
 
 ---
 
@@ -29,6 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heigth="40"/>&nbsp;
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
