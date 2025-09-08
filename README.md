@@ -25,3 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heigth="40"/>&nbsp;
+
+---
+
+### 📫 Let’s Connect  
+- 🌐 [LinkedIn](www.linkedin.com/in/zlatin-rusev-75057b282)  
