@@ -20,11 +20,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heigth="40"/>&nbsp;
 
-  <img align="right" width=320px height=210px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=320px height=210px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  
   
 
 ---
