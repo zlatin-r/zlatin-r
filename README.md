@@ -24,12 +24,12 @@
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
 
 ---
 
 ### 📫 Let’s Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)    <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+  
 
 
