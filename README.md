@@ -31,3 +31,5 @@
 
 ### 📫 Let’s Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)  
+
+![Snake animation](https://github.com/zlatin-r/github-readme/blob/output/github-contribution-snake.svg)
