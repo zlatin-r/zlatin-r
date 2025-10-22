@@ -25,7 +25,7 @@
 ---
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zlatin-r.zlatin-r)
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=zlatin-r&repo=zlatin-r&countColorcountColor&countColor=%237B1E7B"/>
 
 ---
 
