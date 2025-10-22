@@ -29,7 +29,4 @@
 ---
 
 ### 📫 Let’s Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)                                                                                                     <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
-  
-
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)                                                                                                
