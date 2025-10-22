@@ -25,6 +25,7 @@
 ---
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zlatin-r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 
 ---
 
