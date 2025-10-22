@@ -24,5 +24,9 @@
 
 ---
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
 ### 📫 Let’s Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zlatin-rusev-75057b282)  
